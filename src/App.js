@@ -1,7 +1,7 @@
-import logo from './images/logo.svg';
-import image1 from './images/image1.jpg';
-import image2 from './images/image2.jpg';
-import image3 from './images/image3.jpg';
+import logo from './Images/logo.svg';
+import image1 from './Images/image1.jpg';
+import image2 from './Images/image2.jpg';
+import image3 from './Images/image3.jpg';
 import React from 'react';
 import './App.css';
 
