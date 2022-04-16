@@ -5,7 +5,9 @@ header {
   text-align: center;
   color: pink;
 }
-
+button{
+  padding:20px;
+}
 button {
   text-align: center;
   padding: 8px;
